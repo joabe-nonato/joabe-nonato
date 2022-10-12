@@ -39,4 +39,6 @@ Gosto muito de programar e de vencer novos desafios, criei essa conta para publi
 <a href = "mailto:joabe07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/joabe-nonato" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<br>
 
+![Snake animation](https://github.com/joabe-nonato/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
