@@ -29,8 +29,13 @@ Gosto muito de programar e de vencer novos desafios, criei essa conta para publi
 <img title="RaspberryPi" alt="RaspberryPi" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="40" height="40" />
 <img title="Arduino" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="40" height="40" />
 <img title="Inkscape" alt="Inkscape" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" width="40" height="40" />      <img title="Blender" alt="" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" />
-
 </div>     
+
+### Estudando:
+<div style="display: inline_block">
+<img title="Python" alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />             
+<img title="Flask" alt="Flask" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" />
+</div>
 
 ### Estatísticas:
 <div style="display: inline_block">
