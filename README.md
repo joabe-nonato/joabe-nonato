@@ -1,7 +1,13 @@
 ## Joabe Nonato
+<div>
+<a href="https://github.com/joabe-nonato" >
+<img height="120em" title="joabe" src="https://github.com/joabe-nonato/joabe-nonato/blob/main/avatar.jpg" align="left" />
+</a>
 Sou analista desenvolvedor a mais de 10-anos. <br>
 Trago na bagagem, conhecimentos adquiridos durante horas de estudo pessoal, lendo livros, cursos e faculdade.
 Gosto muito de programar e de vencer novos desafios, criei essa conta para publicar pequenos projetos em linguagens e alguns documentos.
+</div>
+<br>
 
 ### Ferramentas e Tecnologias:
 <div style="display: inline_block;" >
@@ -30,8 +36,6 @@ Gosto muito de programar e de vencer novos desafios, criei essa conta para publi
 <div style="display: inline_block">
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joabe-nonato&layout=compact&langs_count=7&theme=dracula"/>
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=joabe-nonato&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-<a href="https://github.com/joabe-nonato">
-<img height="175em" title="joabe" src="https://github.com/joabe-nonato/joabe-nonato/blob/main/avatar.jpg" /></a>
 </div>
 
 ### Contatos:
