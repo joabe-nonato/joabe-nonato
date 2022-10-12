@@ -41,4 +41,4 @@ Gosto muito de programar e de vencer novos desafios, criei essa conta para publi
 </div>
 <br>
 
-![Snake animation](https://github.com/joabe-nonato/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/joabe-nonato/joabe-nonato/blob/output/github-contribution-grid-snake.svg)
