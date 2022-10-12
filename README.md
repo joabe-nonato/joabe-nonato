@@ -7,7 +7,7 @@ Sou analista desenvolvedor a mais de 10-anos. <br>
 Trago na bagagem, conhecimentos adquiridos durante horas de estudo pessoal, lendo livros, cursos e faculdade.
 Gosto muito de programar e de vencer novos desafios, criei essa conta para publicar pequenos projetos em linguagens e alguns documentos.
 </div>
-<br>
+<br><br>
 
 ### Ferramentas e Tecnologias:
 <div style="display: inline_block;" >
