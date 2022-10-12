@@ -1,5 +1,5 @@
 ## Joabe Nonato
-Sou analista desenvolvedor a mais de 10. 
+Sou analista desenvolvedor a mais de 10-anos. <br>
 Trago na bagagem, conhecimentos adquiridos durante horas de estudo pessoal, lendo livros, cursos e faculdade.
 Gosto muito de programar e de vencer novos desafios, criei essa conta para publicar pequenas projetos em linguagens e alguns documentos.
 
