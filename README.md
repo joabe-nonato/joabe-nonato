@@ -3,9 +3,9 @@
 <a href="https://github.com/joabe-nonato" >
 <img height="120em" title="joabe" src="https://github.com/joabe-nonato/joabe-nonato/blob/main/avatar.jpg" align="left" />
 </a>
-Sou analista desenvolvedor a mais de 10-anos. <br>
+Sou analista desenvolvedor a mais de 10 anos. <br>
 Trago na bagagem, conhecimentos adquiridos durante horas de estudo pessoal, lendo livros, cursos e faculdade.
-Gosto muito de programar e de vencer novos desafios, criei essa conta para publicar pequenos projetos em linguagens e alguns documentos.
+Gosto muito de programar e de vencer novos desafios, criei essa conta para publicar pequenos projetos e alguns documentos.
 </div>
 <br><br>
 
