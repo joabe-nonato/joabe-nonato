@@ -6,7 +6,7 @@ Olá, seja bem-vindo ao meu GitHub!
 <img height="120em" title="joabe" src="https://github.com/joabe-nonato/joabe-nonato/blob/main/avatar.jpg" align="left" />
 </a>
 
-Sou **Analista Desenvolvedor** com mais de **10 anos de experiência** na área de tecnologia.  
+Sou **Engenheiro de Software** com mais de **10 anos de experiência** na área de tecnologia.  
 Minha trajetória é marcada por dedicação, estudos contínuos (livros, cursos, graduação) e principalmente pela paixão em resolver problemas através da programação.  
 
 💻 Tenho interesse em criar soluções práticas, explorar novas tecnologias e compartilhar conhecimento.  
